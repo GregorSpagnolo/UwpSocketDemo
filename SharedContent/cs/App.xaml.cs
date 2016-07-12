@@ -8,6 +8,7 @@
 // PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.
 //
 //*********************************************************
+// modified by Gregor Spagnolo
 
 using System;
 using Windows.ApplicationModel;

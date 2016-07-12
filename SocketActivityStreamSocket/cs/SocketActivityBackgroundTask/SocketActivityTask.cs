@@ -8,6 +8,8 @@
 // PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.
 //
 //*********************************************************
+// modified by Gregor Spagnolo
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
